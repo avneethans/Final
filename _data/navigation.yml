@@ -1,12 +1,12 @@
 main:
   - title: "Home"
-    url: "/Final/"
+    url: /
 
   - title: "Excel/Python"
-    url: "/Final/excel/"
+    url: /excel
 
   - title: "Scratch Maze"
-    url: "/Final/scratch/"
+    url: /scratch
 
   - title: "Video Analysis"
-    url: "/Final/video/"
+    url: /video
