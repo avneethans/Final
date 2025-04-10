@@ -1,13 +1,14 @@
 title: "Avneet Hans's Kinesiology Portfolio"
-description: "A showcase of all my projects, including data analysis, a scratch game, and movement analysis video."
+description: "Final project website for KNES 381, showcasing data analysis, Scratch game, and movement video."
 name: "Avneet Hans"
 
-url: "https://github.com/avneethans"
-baseurl: "/Final"
+url: "https://avneethans.github.io"
+baseurl: "/Final"  # Your repository name
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+# Enable GitHub Pages-compatible plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
@@ -16,3 +17,27 @@ plugins:
   - jekyll-include-cache
 
 paginate: false
+
+# Display author sidebar
+author:
+  name: "Avneet Hans"
+  avatar: "/assets/images/avatar.jpg"  # optional image (you can upload one later)
+  bio: "Kinesiology student at the University of Calgary"
+  location: "Calgary, Alberta"
+
+# Navigation
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Optional: enable search
+search: true
