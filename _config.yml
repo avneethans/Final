@@ -1,0 +1,18 @@
+title: "Avneet Hans's Kinesiology Portfolio"
+description: "A showcase of all my projects, including data analysis, a scratch game, and movement analysis video."
+name: "Avneet Hans"
+
+url: "https://github.com/avneethans"
+baseurl: "/Final"
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-include-cache
+
+paginate: false
