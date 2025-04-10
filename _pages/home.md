@@ -7,4 +7,8 @@ author_profile: true
 
 Welcome to my portfolio!
 
-Explore my Excel analysis, Scratch maze game, and sports video breakdown.
+- Excel/Python analysis
+- Scratch maze game
+- Movement video breakdown
+
+Use the menu above to explore each section.
