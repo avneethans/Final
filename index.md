@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home
 title: "KNES 381 Final Project"
 author_profile: true
 ---
