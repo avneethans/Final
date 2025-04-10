@@ -1,17 +1,17 @@
 ---
 layout: splash
-title: "Welcome to Avneet Hans’s Portfolio"
+title: "Welcome to Avneet Hans’ Portfolio"
 permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/splash-bg.jpg  # Add an image to this path or change it
+  overlay_image: https://source.unsplash.com/1600x900/?athlete,fitness
   actions:
     - label: "View My Work"
-      url: "#"
+      url: "#feature"
       class: "btn btn--primary"
 excerpt: >
-  📊 Excel & Python analysis • 🎮 Scratch game • 🎥 Video movement breakdown
+  This site showcases my work in kinesiology, combining data analysis, creative media, and movement science. It serves as a living resume, highlighting skills in Excel, Python, game design, and video analysis.
 
 feature_row:
   - image_path: /assets/images/excel.png
