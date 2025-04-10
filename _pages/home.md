@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/your-background.jpeg
+  overlay_image: /Final/assets/images/background.jpeg
   actions:
     - label: "View My Work"
       url: "#feature"
