@@ -21,8 +21,8 @@ paginate: false
 # Display author sidebar
 author:
   name: "Avneet Hans"
-  avatar: "/assets/images/avatar.jpg"  # optional image (you can upload one later)
-  bio: "Kinesiology student at the University of Calgary"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Bachelor of Science in Kinesiology student at the University of Calgary"
   location: "Calgary, Alberta"
 
 # Navigation
