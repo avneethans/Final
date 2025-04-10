@@ -8,4 +8,4 @@ permalink: /scratch/
 
 Here's my custom-built interactive maze game made in Scratch!
 
-[https://scratch.mit.edu/projects/1159846122/editor]
+[https://scratch.mit.edu/projects/1159846122/]
