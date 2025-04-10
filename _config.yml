@@ -38,6 +38,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
 # Optional: enable search
 search: true
