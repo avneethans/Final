@@ -1,11 +1,11 @@
-nav:
+main:
   - title: "Home"
     url: /
   - title: "Excel/Python"
     url: /excel/
   - title: "Scratch Maze"
     url: /scratch/
-  - title: "Video Analysis"
+  - title: "Video"
     url: /video/
-  - title: "About Me"
+  - title: "About me"
     url: /about/
