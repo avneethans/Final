@@ -13,6 +13,6 @@ I’m passionate about helping others and applying both creativity and data anal
 
 If you would like to get to know more about me and my employment experience, you can view or download my resume below: 
 
-[Avneet Hans Resume (PDF)](/assets/files/Avneet-Hans-Resume.pdf){: .btn .btn--primary }
+[Avneet Hans Resume (PDF)](/assets/files/resume.pdf){: .btn .btn--primary }
 
 Thanks for visiting my portfolio!
