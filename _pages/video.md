@@ -13,6 +13,6 @@ Joint angles, shooting form, and alignment were examined to identify technique s
 ### Watch the breakdown:
 
 <video width="100%" height="auto" controls>
-  <source src="/Final/assets/files/basketball.mp4" type="video/mp4">
+  <source src="{{ '/assets/files/basketball.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
