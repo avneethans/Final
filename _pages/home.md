@@ -12,11 +12,6 @@ header:
       class: "btn btn--primary"
 excerpt: >
   This site showcases my work in kinesiology, combining data analysis, creative media, and movement science. It serves as a living resume, highlighting skills in Excel, Python, game design, and video analysis.
----
-
-<div id="feature">
-{% include feature_row %}
-</div>
 
 feature_row:
   - image_path: /assets/images/excel.png
@@ -47,4 +42,7 @@ feature_row:
     btn_label: "View"
     btn_class: "btn--primary"
 ---
+
+<div id="feature">
 {% include feature_row %}
+</div>
