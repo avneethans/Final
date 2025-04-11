@@ -17,28 +17,28 @@ feature_row:
   - image_path: /assets/images/excel.png
     title: "Excel + Python"
     excerpt: "Performance data analysis"
-    url: "#"
+    url: "/Final/excel/"
     btn_label: "View"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/scratch.png
     title: "Scratch Maze"
     excerpt: "Game design & logic"
-    url: "#"
+    url: "/Final/scratch/"
     btn_label: "Play"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/video.png
     title: "Video Analysis"
     excerpt: "Sport movement breakdown"
-    url: "#"
+    url: "/Final/video/"
     btn_label: "Watch"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/about.png
     title: "About Me"
     excerpt: "A little bit about myself"
-    url: "#"
+    url: "/Final/about/"
     btn_label: "View"
     btn_class: "btn--primary"
 ---
