@@ -11,6 +11,6 @@ Explore my custom-built interactive maze created in Scratch!
 
 ### ▶️ Play it below:
 
-<iframe src="https://scratch.mit.edu/projects/1159846122/" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://scratch.mit.edu/projects/1159846122/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 [View on Scratch →](https://scratch.mit.edu/projects/1159846122/) 
