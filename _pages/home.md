@@ -15,7 +15,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/excel.png
-    title: "Excel"
+    title: "Data Analysis"
     excerpt: "Performance data analysis"
     url: /excel/
     btn_label: "View"
