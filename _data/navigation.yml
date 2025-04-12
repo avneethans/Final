@@ -1,11 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Excel"
+  - title: "Data Analysis"
     url: /excel/
   - title: "Scratch Maze"
     url: /scratch/
-  - title: "Video"
+  - title: "Video Analysis"
     url: /video/
   - title: "About me"
     url: /about/
