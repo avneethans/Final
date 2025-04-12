@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Excel & Python Analysis"
+title: "Data Analysis"
 permalink: /excel/
 author_profile: true
 ---
