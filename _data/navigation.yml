@@ -1,7 +1,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Excel/Python"
+  - title: "Excel"
     url: /excel/
   - title: "Scratch Maze"
     url: /scratch/
