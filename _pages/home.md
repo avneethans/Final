@@ -15,7 +15,7 @@ excerpt: >
 
 feature_row:
   - image_path: /assets/images/excel.png
-    title: "Excel + Python"
+    title: "Excel"
     excerpt: "Performance data analysis"
     url: /excel/
     btn_label: "View"
