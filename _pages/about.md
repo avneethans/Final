@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-Hi! I’m **Avneet Hans**, a Kinesiology student at the University of Calgary with a passion for understanding how the human body moves and performs.
+Hi! I’m Avneet Hans, a Kinesiology student at the University of Calgary with a passion for understanding how the human body moves and performs.
 
 Outside of academics, I enjoy staying active, especially playing basketball and I’m always looking for ways to connect what I learn in class to real-world experiences. I’ve worked in clinical and research settings, where I developed strong communication, organization, and problem-solving skills while supporting healthcare teams and engaging with patients.
 
